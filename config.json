@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvncrypt",
+        "uuid": 12219192,
+        "checksum": "t612s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
